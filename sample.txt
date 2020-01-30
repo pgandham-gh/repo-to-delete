@@ -1,0 +1,7 @@
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.Go to https://github.com/
+Login if you're not already logged in
+Create account from https://github.com/join if you don't already have an account
+Click on the New button on the top of the left panel
+
+Give repo a unique name and make sure to check the Initialize this repository with a README checkbox
